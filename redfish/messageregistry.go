@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/lorenzb07/gofish/common"
 )
 
 const MessageIDSectionLength = 4

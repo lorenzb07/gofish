@@ -7,7 +7,7 @@ package swordfish
 import (
 	"encoding/json"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/lorenzb07/gofish/common"
 )
 
 // AntiVirusScanTrigger shall specify types of antivirus scan triggers.

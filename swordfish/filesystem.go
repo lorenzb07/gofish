@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/lorenzb07/gofish/common"
 )
 
 // CharacterCodeSet shall indicate the character code standards supported by the

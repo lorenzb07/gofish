@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/lorenzb07/gofish/common"
 )
 
 var eventServiceBody = `{

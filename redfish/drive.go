@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/lorenzb07/gofish/common"
 )
 
 // EncryptionAbility is the drive's encryption ability.

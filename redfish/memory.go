@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/lorenzb07/gofish/common"
 )
 
 // BaseModuleType is the type of module.

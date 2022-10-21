@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/stmcginnis/gofish/redfish"
+	"github.com/lorenzb07/gofish/redfish"
 )
 
 const eventContext string = "root"
